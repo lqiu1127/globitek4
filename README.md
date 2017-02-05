@@ -6,14 +6,14 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-1\. [x]  Required: Test for initial vulnerabilities
+[x]  Required: Test for initial vulnerabilities
 
-2\. [x]  Required: Configure sessions
+[x]  Required: Configure sessions
   * [x]  Required: Only allow session IDs to come from cookies
   * [x]  Required: Expire after one day
   * [x]  Required: Use cookies which are marked as HttpOnly
 
-3\. [x]  Required: Complete Login page.
+[x]  Required: Complete Login page.
   * [x]  Required: Show an error message when username is not found.
   * [x]  Required: Show an error message when username is found but password does not match.
   * [x]  Required: After login, store user ID in session data.
