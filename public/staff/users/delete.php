@@ -11,7 +11,7 @@ $user = db_fetch_assoc($users_result);
 
 if(is_post_request()) {
   if(!request_is_same_domain()){
-    echo "Error: request is not the same domain"
+    echo "Error: request is not the same domain";
     exit;
   }
   check_csrf_token_valid();
