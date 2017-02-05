@@ -6,9 +6,9 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-1\. [x]  Required: Test for initial vulnerabilities
+1\. * [x]  Required: Test for initial vulnerabilities
 
-2\. [x]  Required: Configure sessions
+2\. * [x]  Required: Configure sessions
   * [x]  Required: Only allow session IDs to come from cookies
   * [x]  Required: Expire after one day
   * [x]  Required: Use cookies which are marked as HttpOnly
