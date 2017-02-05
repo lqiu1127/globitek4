@@ -48,9 +48,11 @@ The following **required** functionality is completed:
 
 The following advanced user stories are optional:
 
-* [ ]  Bonus Objective 1: Identify security flaw in Objective #4 (requiring login on staff pages)
-  * [ ]  Identify the security principal not being followed.
-  * [ ]  Write a short description of how the code could be modified to be more secure.
+* [x]  Bonus Objective 1: Identify security flaw in Objective #4 (requiring login on staff pages)
+  * [x]  Identify the security principal not being followed.
+  Simple is more secure
+  * [x]  Write a short description of how the code could be modified to be more secure.
+  Currently, the page content and error messages are all different, allowing the hacker to have a sense of direction in hacking. For example, it is easy for the hacker to detect whether a username exist or now. After a hacker finds that, they can just test many different passwords on the same username until they get the correct password. To mitigate this affect, we need to have a similar error message for everything, such that the hacker cannot detect what they did wrong. We can also reset both the username and password field, as long as the combination is incorrect. This simple way actually keeps the hacker from gathering information that is very useful and we can slow down many attacks.
 
 * [x] Bonus Objective 2: Add CSRF protections to all forms in the staff directory
 
