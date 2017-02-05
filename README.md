@@ -43,7 +43,7 @@ The following **required** functionality is completed:
 
 8\. [x]  Required: Ensure the application is not vulnerable to SQL Injection attacks.
 
-9\. [ ]  Required: Run all tests from Objective 1 again and confirm that your application is no longer vulnerable to any test.
+9\. [x]  Required: Run all tests from Objective 1 again and confirm that your application is no longer vulnerable to any test.
 
 
 The following advanced user stories are optional:
@@ -71,7 +71,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/sBYRkFv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
